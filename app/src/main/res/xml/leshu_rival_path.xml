@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-cache-path
+        name="rival_sdk_download_path1"
+        path="leshu_download" />
+    <cache-path
+        name="rival_sdk_download_path2"
+        path="leshu_download" />
+</paths>
